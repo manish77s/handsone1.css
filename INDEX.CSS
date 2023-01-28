@@ -1,0 +1,50 @@
+h1 {
+    color: red;
+}
+h2 {
+    color: red;
+    font-style: italic;
+    
+}
+ol{
+    color: brown;
+} 
+.para1{
+    text-decoration: line-through;
+    font-style: bolder;
+    font-weight: 800;
+}
+.PARA1
+{
+    display: inline;
+    background-color: yellow;
+    font-weight: 800;
+
+}
+ul{
+    color: brown;
+    letter-spacing: 5px;
+    word-spacing: 2px;
+    font-weight: 500;
+    
+    
+}
+p{
+    text-decoration: underline;
+}
+
+.para2{
+    background-color: yellow;
+    font-weight: 800;
+} 
+div{
+    color:saddlebrown
+}
+a{
+    color:red;
+    background-color: yellow;
+    font-style: italic;
+    font-size:larger;
+    text-decoration: none;
+    
+}
